@@ -35,3 +35,10 @@
     height: 270px;
     max-width: 720px;
 }
+.card-text{
+    align-items: center;
+    
+}
+.card-title{
+    align-items: center;
+}
