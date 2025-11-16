@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Node.js-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-ReactJS%20%7C%20JavaScript-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frameworks-Django%20%7C%20FastAPI%20%7C%20Express-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-OpenAI%20LLMs%20%7C%20RAG-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20LLMs%20%7C%20ETL-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20CI%2FCD-yellow?style=for-the-badge" />
 </p>
 
