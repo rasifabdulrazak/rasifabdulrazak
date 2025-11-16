@@ -27,65 +27,99 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 <span style="color:#6C63FF;">Tech Stack</span>
+
+---
+
+### <p align="center">💻 <strong>Backend</strong></p>
 
 <details>
-<summary>💻 Backend</summary>
+<summary><strong>Click to Expand</strong></summary><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-CC0000?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-CC0000?logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+
+</p>
 
 </details>
 
 ---
 
-<details>
-<summary>🎨 Frontend</summary>
+### <p align="center">🎨 <strong>Frontend</strong></p>
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<details>
+<summary><strong>Click to Expand</strong></summary><br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+
+</p>
 
 </details>
 
 ---
 
-<details>
-<summary>🛠️ DevOps</summary>
+### <p align="center">🛠️ <strong>DevOps & Cloud</strong></p>
 
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<details>
+<summary><strong>Click to Expand</strong></summary><br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+</p>
 
 </details>
 
 ---
 
-<details>
-<summary>🗄️ Databases</summary>
+### <p align="center">🗄️ <strong>Databases</strong></p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+<details>
+<summary><strong>Click to Expand</strong></summary><br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+
+</p>
 
 </details>
 
 ---
 
-<details>
-<summary>🤖 AI / Data</summary>
+### <p align="center">🤖 <strong>AI / Data Engineering</strong></p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache%20spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache%20airflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+<details>
+<summary><strong>Click to Expand</strong></summary><br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache%20spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache%20airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" />
+
+</p>
 
 </details>
+
+---
