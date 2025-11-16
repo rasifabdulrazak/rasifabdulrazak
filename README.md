@@ -31,7 +31,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-### <p align="center">💻 <strong>Backend</strong></p>
+### <p>💻 <strong>Backend</strong></p>
 
 <details>
 <summary><strong>Click to Expand</strong></summary><br>
@@ -51,7 +51,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-### <p align="center">🎨 <strong>Frontend</strong></p>
+### <p>🎨 <strong>Frontend</strong></p>
 
 <details>
 <summary><strong>Click to Expand</strong></summary><br>
@@ -70,7 +70,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-### <p align="center">🛠️ <strong>DevOps & Cloud</strong></p>
+### <p>🛠️ <strong>DevOps & Cloud</strong></p>
 
 <details>
 <summary><strong>Click to Expand</strong></summary><br>
@@ -88,7 +88,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-### <p align="center">🗄️ <strong>Databases</strong></p>
+### <p>🗄️ <strong>Databases</strong></p>
 
 <details>
 <summary><strong>Click to Expand</strong></summary><br>
@@ -106,7 +106,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-### <p align="center">🤖 <strong>AI / Data Engineering</strong></p>
+### <p>🤖 <strong>AI / Data Engineering</strong></p>
 
 <details>
 <summary><strong>Click to Expand</strong></summary><br>
