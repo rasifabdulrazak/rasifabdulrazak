@@ -142,7 +142,7 @@ backed by optimized multi-stage Docker builds.
 
 ### 🤖 **AI Integration & Automation**
 - Integrate AI systems into applications, including  
-**chatbots, PDF Q&A engines, RAG pipelines, automation workflows, and LLM-powered features.**
+**chatbots, PDF Q&A engines, ETL pipelines, automation workflows, and LLM-powered features.**
 
 ---
 
