@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Rasif;Backend+Engineer;AI+Engineer+%7C+API+Specialist;LLM+%26+SaaS+System+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Rasif;Backend+Engineer;AI+Integrations+%7C+API+Specialist;System+Architecture" />
 </p>
 
 ---
@@ -16,7 +16,8 @@
 ---
 
 # 👋 Hi, I'm **Mohammed Rasif**
-• Backend Engineer • AI System Architect  
+- Backend Engineer 
+- AI System Architect  
 Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
@@ -26,7 +27,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-## 🧠 <span style="color:#6C63FF;">Tech Stack</span>
+# 🧠 <span style="color:#6C63FF;">Tech Stack</span>
 
 ### <p>💻 <strong>Backend</strong></p>
 
