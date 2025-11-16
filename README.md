@@ -152,16 +152,20 @@ backed by optimized multi-stage Docker builds.
 
 ---
 
-🔗 Lets Connect !
-====================
-🌐 Portfolio
+# 🔗 Let's Connect!
 
-👉 https://portfolio.pyrasif.com
+<p align="center">
 
-💼 LinkedIn
+  <a href="https://portfolio.pyrasif.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
-👉 https://www.linkedin.com/in/mohammed-rasif-056419211
+  <a href="https://www.linkedin.com/in/mohammed-rasif-056419211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-💻 GitHub
+  <a href="https://github.com/rasifabdulrazak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rasifabdulrazak-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-👉 https://github.com/rasifabdulrazak
+</p>
