@@ -22,8 +22,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 ---
 
 ## 🚀 About Me
-> Passionate about building production-grade systems with clean architecture,  
-> LLM-powered intelligence, secure backends, and high performance.
+-Python Backend Engineer skilled in building scalable APIs, managing Docker deployments, and automating CI/CD pipelines.Aspiring Data Engineer exploring Airflow, Pandas, Snowflake, Kafka, and PySpark to design efficient, data-driven solutions.
 
 ---
 
