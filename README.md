@@ -22,7 +22,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 - Python Backend Engineer skilled in building scalable APIs, managing Docker deployments, and automating CI/CD pipelines.Aspiring Data Engineer exploring Airflow, Pandas, Snowflake, Kafka, and PySpark to design efficient, data-driven solutions.
 
 ---
@@ -98,7 +98,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 ---
 ---
 
-## 📊 GitHub Stats (Quick Overview)
+# 📊 GitHub Status
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rasifabdulrazak&show_icons=true&theme=tokyonight&hide_border=true" />
