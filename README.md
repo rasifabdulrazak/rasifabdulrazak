@@ -22,7 +22,7 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 ---
 
 ## 🚀 About Me
--Python Backend Engineer skilled in building scalable APIs, managing Docker deployments, and automating CI/CD pipelines.Aspiring Data Engineer exploring Airflow, Pandas, Snowflake, Kafka, and PySpark to design efficient, data-driven solutions.
+- Python Backend Engineer skilled in building scalable APIs, managing Docker deployments, and automating CI/CD pipelines.Aspiring Data Engineer exploring Airflow, Pandas, Snowflake, Kafka, and PySpark to design efficient, data-driven solutions.
 
 ---
 
