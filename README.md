@@ -117,37 +117,37 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 ---
 
 ### 🚀 **Backend Development**
-Design and implement **scalable, secure, and maintainable** backend systems using  
+- Design and implement **scalable, secure, and maintainable** backend systems using  
 **Python, Django, DRF, FastAPI, Node.js, Express**, and modern best practices.
 
 ---
 
 ### 🗄️ **Database Design & Optimization**
-Create and manage efficient databases such as  
+- Create and manage efficient databases such as  
 **PostgreSQL, MySQL, SQLite, MongoDB & Redis**, ensuring performance, indexing, and reliability.
 
 ---
 
 ### 📦 **Application Deployment**
-Deploy and manage applications using  
+- Deploy and manage applications using  
 **Docker, CI/CD pipelines, Nginx, and AWS**, with secure environment handling and automated deployments.
 
 ---
 
 ### 🐳 **Containerization with Docker**
-Containerize applications for **consistent development and production environments**,  
+- Containerize applications for **consistent development and production environments**,  
 backed by optimized multi-stage Docker builds.
 
 ---
 
 ### 🤖 **AI Integration & Automation**
-Integrate AI systems into applications, including  
+- Integrate AI systems into applications, including  
 **chatbots, PDF Q&A engines, RAG pipelines, automation workflows, and LLM-powered features.**
 
 ---
 
 ### 🧹 **Code Refactoring & Optimization**
-Refactor and optimize existing codebases to improve  
+- Refactor and optimize existing codebases to improve  
 **performance, readability, scalability, maintainability**, and reduce technical debt.
 
 ---
