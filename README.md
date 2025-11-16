@@ -151,3 +151,17 @@ backed by optimized multi-stage Docker builds.
 **performance, readability, scalability, maintainability**, and reduce technical debt.
 
 ---
+
+🔗 Lets Connect !
+====================
+🌐 Portfolio
+
+👉 https://portfolio.pyrasif.com
+
+💼 LinkedIn
+
+👉 https://www.linkedin.com/in/mohammed-rasif-056419211
+
+💻 GitHub
+
+👉 https://github.com/rasifabdulrazak
