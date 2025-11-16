@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Rasif;Backend+Engineer;AI+Integrations+%7C+API+Specialist;System+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Rasif;Backend+Engineer;AI+Integrations+%7C+API+Specialist;Data+Engineering" />
 </p>
 
 ---
