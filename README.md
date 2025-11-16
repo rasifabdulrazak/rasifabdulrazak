@@ -28,8 +28,6 @@ Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ## 🧠 <span style="color:#6C63FF;">Tech Stack</span>
 
----
-
 ### <p>💻 <strong>Backend</strong></p>
 
 <p align="center">
