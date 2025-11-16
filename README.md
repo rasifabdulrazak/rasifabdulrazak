@@ -1,73 +1,33 @@
-💫 Hi, I'm Mohammed Rasif
-Full-Stack Developer • Backend Specialist • AI Integrator
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohammed+Rasif;Full-Stack+Developer;AI+Engineer+%7C+Backend+Specialist;LLM+%26+SaaS+System+Architect" />
+</p>
 
-I build scalable applications with clean architecture, strong backend engineering, and modern cloud deployment. Passionate about automation, system design, and creating efficient developer experiences.
+---
 
-🚀 What I Do
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Node.js-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frameworks-Django%20%7C%20FastAPI%20%7C%20Express-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20LLMs%20%7C%20RAG-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20CI%2FCD-yellow?style=for-the-badge" />
+</p>
 
-🧩 Backend Development – Django REST Framework, FastAPI, Node.js
+---
 
-🗄️ Databases – PostgreSQL, MySQL, Redis
+# 👋 Hi, I'm **Mohammed Rasif**
+• Backend Engineer • AI System Architect  
+Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
-☁️ DevOps & Deployment – Docker, Nginx, CI/CD, AWS
+---
 
-🤖 AI & Chatbots – OpenAI, WhatsApp Bots, RAG Systems
+## 🚀 About Me
+> Passionate about building production-grade systems with clean architecture,  
+> LLM-powered intelligence, secure backends, and high performance.
 
-🏗️ System Design – Microservices, Multi-tenant SaaS, Event-Driven Design
+---
 
-🛠️ Tech Stack
+## 🧠 Tech Stack
 
-Languages
-Python JavaScript TypeScript
-
-Backend
-Django DRF FastAPI Node.js Express
-
-Frontend
-React Vite TailwindCSS Next.js (basic)
-
-Databases
-PostgreSQL MySQL Redis
-
-DevOps & Tools
-Docker Nginx GitLab CI/CD GitHub Actions AWS EC2
-
-📌 Current Focus
-
-Building scalable SaaS systems
-
-Multi-tenant architecture
-
-AI-powered automation & chatbots
-
-Payment gateway integrations
-
-High-performance backend APIs
-
-🔥 Featured Skills
-
-⚡ Real-time Streaming (WebSockets / Server-Sent Events)
-
-📂 Large File Uploading & Video Streaming
-
-🔑 Authentication / JWT / RBAC
-
-🧮 Complex Business Logic for ERP, HR, Booking, and Tracking Systems
-
-🧰 Clean architecture & reusable code patterns
-
-📫 Connect With Me
-
-🌐 Portfolio: Add your link
-
-💼 LinkedIn: Add your link
-
-💻 GitHub: https://github.com/rasifabdulrazak
-
-✨ Fun Facts
-
-I enjoy solving system design problems
-
-I explore new tools and frameworks frequently
-
-I build reusable modules for almost every project
+### 💻 Backend
+```bash
+Python • Django • DRF • FastAPI • Node.js • Express
