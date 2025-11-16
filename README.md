@@ -17,8 +17,7 @@
 
 # 👋 Hi, I'm **Mohammed Rasif**
 - Backend Engineer 
-- AI System Architect  
-Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
+- Building scalable Backend, LLM apps, SaaS systems & real-time platforms.
 
 ---
 
