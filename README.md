@@ -139,4 +139,4 @@ Available for senior backend engineering positions, technical leadership roles, 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rasifabdulrazak&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*Committed to writing clean, maintainable code and building systems that scale.*
+*Committed to writing clean, problem solving, debugging, maintainable code and building systems that scale.*
