@@ -1,163 +1,77 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Mohammed+Rasif;Backend+Engineer+%7C+AI+Integration+Specialist;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00D9FF&center=true&vCenter=true&width=900&lines=Mohammed+Rasif;Backend+Engineer+%7C+AI+Integration+Specialist" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio.pyrasif.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-rasif-056419211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/rasifabdulrazak"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://portfolio.pyrasif.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohammed-rasif-056419211">LinkedIn</a> •
+  <a href="https://github.com/rasifabdulrazak">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099FF&height=200&section=header&text=Welcome&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-</p>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate Backend Engineer specializing in building scalable systems, AI-powered applications, and robust data pipelines. With expertise spanning modern backend frameworks, cloud infrastructure, and emerging AI technologies, I deliver production-ready solutions that drive business value.
+Backend Engineer focused on building **scalable APIs**, **AI-powered systems**, and **data-intensive platforms**.  
+I specialize in taking ideas from architecture to production with clean code, reliable infrastructure, and measurable performance.
 
-**Current Focus Areas:**
-- 🤖 Building production-grade LLM applications and AI integrations
-- 🏗️ Architecting scalable microservices and RESTful APIs
-- 📊 Developing data engineering pipelines with Airflow, PySpark, and Kafka
-- 🚀 Implementing DevOps best practices with Docker and CI/CD
-- ☁️ Deploying cloud-native solutions on AWS
+I work extensively on:
+- AI & LLM integrations for real-world products
+- Backend system design and API architecture
+- Data pipelines and workflow orchestration
+- Cloud-native and DevOps-driven deployments
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Backend**
+- Python, Django, FastAPI  
+- Node.js, Express
 
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**Databases**
+- PostgreSQL, MySQL  
+- MongoDB, Redis
 
-### Data & AI
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+**AI & Data**
+- LLM integrations (OpenAI / Claude)
+- Airflow, PySpark, Kafka
+- Pandas, Data Warehousing
 
-</td>
-<td valign="top" width="50%">
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</td>
-</tr>
-</table>
+**DevOps & Cloud**
+- Docker, GitHub Actions
+- AWS, Nginx
+- CI/CD & production deployments
 
 ---
 
-## 💼 Professional Services
+## What I Do
 
-```python
-services = {
-    "Backend Development": [
-        "RESTful API Design & Development",
-        "Microservices Architecture",
-        "Real-time Systems & WebSockets",
-        "Authentication & Authorization"
-    ],
-    "AI & LLM Integration": [
-        "OpenAI/Claude API Integration",
-        "RAG Systems & Vector Databases",
-        "AI-Powered SaaS Applications",
-        "Prompt Engineering & Fine-tuning"
-    ],
-    "Data Engineering": [
-        "ETL Pipeline Development",
-        "Data Warehouse Architecture",
-        "Stream Processing (Kafka)",
-        "Workflow Orchestration (Airflow)"
-    ],
-    "DevOps & Infrastructure": [
-        "Docker Containerization",
-        "CI/CD Pipeline Setup",
-        "AWS Deployment & Management",
-        "Database Optimization"
-    ],
-    "Consulting": [
-        "System Architecture Review",
-        "Code Refactoring & Optimization",
-        "Technical Documentation",
-        "Performance Tuning"
-    ]
-}
-```
-
---- 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasifabdulrazak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasifabdulrazak&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-  
----
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+- Design and build production-grade REST APIs
+- Architect scalable backend systems
+- Integrate LLMs into SaaS applications
+- Build ETL and streaming data pipelines
+- Optimize databases and system performance
+- Set up CI/CD and cloud infrastructure
 
 ---
 
-## 💭 Developer Wisdom
+## Open To
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in working on innovative projects, particularly those involving:
-
-- 🧠 AI/ML applications and LLM integrations
-- 📊 Large-scale data engineering challenges
-- 🏗️ Complex system architecture problems
-- 🚀 High-performance backend systems
-
-**Open to:** Freelance projects, consulting opportunities, and exciting full-time positions.
+- Backend / Platform Engineering roles  
+- AI & LLM-based product development  
+- Freelance & consulting engagements  
 
 ---
 
-<div align="center">
+## Contact
 
-### 📫 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasifrazak123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.pyrasif.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rasif-056419211)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rasifabdulrazak)
+- 📧 Email: **rasifrazak123@gmail.com**
+- 🌐 Portfolio: https://portfolio.pyrasif.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-rasif-056419211
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=rasifabdulrazak&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0099FF&height=120&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=rasifabdulrazak&style=flat&color=blue" />
 </p>
