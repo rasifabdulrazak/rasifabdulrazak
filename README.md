@@ -20,6 +20,7 @@ I work extensively on:
 - Backend system design and API architecture
 - Data pipelines and workflow orchestration
 - Cloud-native and DevOps-driven deployments
+- **debugging and root-cause analysis skills**
 
 ---
 
