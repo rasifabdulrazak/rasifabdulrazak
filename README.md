@@ -7,7 +7,7 @@
 ## Technical Expertise
 
 **Backend & Infrastructure**  
-Django • FastAPI • Node.js • Microservices • WebSockets • AWS • Docker
+Django • FastAPI • Node.js • Microservices • WebSockets • Docker • AWS • Azure
 
 **Frontend & User Experience**  
 React.js • TailwindCSS • Modern responsive architectures
@@ -33,3 +33,4 @@ I build scalable, intelligent systems with emphasis on:
 ## Contact
 
 [Portfolio](https://portfolio.pyrasif.com) • [LinkedIn](https://www.linkedin.com/in/mohammed-rasif-056419211) • [GitHub](https://github.com/rasifabdulrazak) • [Medium](https://medium.com/@rasifrazak123)
+
