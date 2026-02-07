@@ -32,4 +32,4 @@ I build scalable, intelligent systems with emphasis on:
 
 ## Contact
 
-[Portfolio](https://portfolio.pyrasif.com) • [LinkedIn](https://www.linkedin.com/in/mohammed-rasif-056419211) • [GitHub](https://github.com/rasifabdulrazak)
+[Portfolio](https://portfolio.pyrasif.com) • [LinkedIn](https://www.linkedin.com/in/mohammed-rasif-056419211) • [GitHub](https://github.com/rasifabdulrazak) • [Medium](https://medium.com/@rasifrazak123)
