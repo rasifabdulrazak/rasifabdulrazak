@@ -1,42 +1,35 @@
-# 👋 Hi, I'm Mohammed Rasif
+# Mohammed Rasif
 
-**Full-Stack Engineer | AI/ML Integrations | Data Engineering | Debugging Specialist**
-
-Engineer focused on scalable systems and intelligent applications — from backend architecture to frontend experience. Skilled in deep debugging and optimizing distributed systems for performance and reliability.
+**Full-Stack Engineer specializing in AI/ML integration, distributed systems, and production debugging**
 
 ---
 
-## 🚀 Core Expertise
-- **Backend:** Django • FastAPI • Node.js • Microservices • WebSockets
-- **Frontend:** React.js • TailwindCSS • Modern UI architectures
-- **AI & Automation:** OpenAI API • RAG Systems • Vector DBs • AI Agents
-- **Data Engineering:** Airflow • Kafka • ETL Pipelines
-- **Cloud & DevOps:** AWS • Docker • CI/CD Pipelines
-- **Databases:** PostgreSQL • Redis • MongoDB
+## Technical Expertise
+
+**Backend & Infrastructure**  
+Django • FastAPI • Node.js • Microservices • WebSockets • AWS • Docker
+
+**Frontend & User Experience**  
+React.js • TailwindCSS • Modern responsive architectures
+
+**AI & Data Engineering**  
+OpenAI API • RAG Systems • Vector Databases • Airflow • Kafka • ETL Pipelines
+
+**Databases**  
+PostgreSQL • Redis • MongoDB
 
 ---
 
-## 🐞 Debugging Strength
-- Systematic RCA for complex, distributed failures  
-- Performance profiling & latency reduction  
-- Observability: logging, tracing & monitoring  
-- Rapid issue isolation + MTTR improvement  
+## Professional Focus
 
-> I turn unknown unknowns into solved problems.
-
----
-
-## 🌟 What I Build
-- AI-powered SaaS applications  
-- Full-stack web platforms with modern UX  
-- Real-time streaming & automation systems  
-- Scalable data and microservice architectures  
+I build scalable, intelligent systems with emphasis on:
+- Production-grade AI/ML applications
+- Systematic root cause analysis for distributed systems
+- Performance optimization and reliability engineering
+- End-to-end platform development
 
 ---
 
-## 📫 Connect With Me
+## Contact
+
 [Portfolio](https://portfolio.pyrasif.com) • [LinkedIn](https://www.linkedin.com/in/mohammed-rasif-056419211) • [GitHub](https://github.com/rasifabdulrazak)
-
----
-
-🧑‍💻 *I design, debug, and deliver systems that scale.*
