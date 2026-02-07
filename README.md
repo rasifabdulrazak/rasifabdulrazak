@@ -7,7 +7,7 @@
 ## Technical Expertise
 
 **Backend & Infrastructure**  
-Django • FastAPI • Node.js • Microservices • WebSockets • AWS • Docker
+Django • FastAPI • Node.js • Microservices • WebSockets • Docker • AWS • Azure
 
 **Frontend & User Experience**  
 React.js • TailwindCSS • Modern responsive architectures
